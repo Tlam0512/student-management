@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e1a23e3-ceb6-4973-b410-4178fe0d3258" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/student/rmi/client/ClientApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/student/rmi/client/client/AccountClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/student/rmi/client/client/GradeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/student/rmi/client/client/StudentClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/student/rmi/client/controller/GradeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/student/rmi/client/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/student/rmi/client/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/student/rmi/client/util/AlertUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/java/org/student/rmi/client/util/ConnectServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/bootstrap3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/img/loupe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/img/profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/img/tabel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/img/user-interface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/org/student/rmi/client/GradeView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/org/student/rmi/client/LoginView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/org/student/rmi/client/StudentView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/main/resources/primer-light" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/domain/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/domain/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/service/IAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/service/IGradeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/service/IStudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/service/impl/GradeServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/src/main/java/org/student/rmi/server/util/DbConnect.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2syky7FJu9Y5VTcAXeQVYNoiewB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccountClient.executor": "Run",
+    "Application.AccountServiceImpl.executor": "Run",
+    "Application.ClientApp.executor": "Run",
+    "Application.GradeServiceImpl.executor": "Run",
+    "Application.ServerApp.executor": "Run",
+    "Application.StudentServiceImpl.executor": "Run",
+    "Application.org.student.rmi.client.ClientApp.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last.edited.regexp": "",
+    "last_opened_file_path": "D:/Desktop/student-management/client/src/main/resources/org/student/rmi/client",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.smartKeys",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\student-management\client\src\main\resources\org\student\rmi\client" />
+      <recent name="D:\Desktop\student-management\client\src\main\resources" />
+      <recent name="D:\Desktop\student-management\server\src\main\java\org\student\rmi\server\util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.student.rmi.client.ClientApp">
+    <configuration name="AccountClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.student.rmi.client.client.AccountClient" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.student.rmi.client.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GradeServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.student.rmi.server.service.impl.GradeServiceImpl" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.student.rmi.server.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.student.rmi.server.ServerApp" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.student.rmi.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.student.rmi.server.service.impl.StudentServiceImpl" />
+      <module name="server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.student.rmi.server.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.student.rmi.client.ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.student.rmi.client.ClientApp" />
+      <module name="client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.student.rmi.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.student.rmi.client.ClientApp" />
+        <item itemvalue="Application.ServerApp" />
+        <item itemvalue="Application.GradeServiceImpl" />
+        <item itemvalue="Application.StudentServiceImpl" />
+        <item itemvalue="Application.AccountClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.21565.193" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-IU-243.21565.193" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1a23e3-ceb6-4973-b410-4178fe0d3258" name="Changes" comment="" />
+      <created>1739435455396</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739435455396</updated>
+      <workItem from="1739435457657" duration="22563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
